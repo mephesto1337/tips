@@ -2,7 +2,7 @@
 
 Use [kdnet](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/setting-up-a-network-debugging-connection-automatically) to setup debugging.
 
-## Tools one debuggee
+## Tools on debuggee
 
 * [sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite).
 * [python](https://www.python.org/downloads/) for PoC.
